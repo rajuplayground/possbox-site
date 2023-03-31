@@ -1,0 +1,13 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+#app {
+    height: 100%;
+    display: grid;
+    place-content: center;
+}
+.logo {
+    width: 300px;
+}
